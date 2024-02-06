@@ -1,0 +1,294 @@
+@media (max-width:980px) {
+
+    .desk-header {
+        display: none;
+    }
+
+    .mob-header {
+        display: block;
+    }
+
+    .banner .ban1 {
+        background-position: 50% 00%;
+    }
+
+    footer .row{
+        padding: 30px 10px;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        row-gap: 10px;
+    }
+
+}
+
+
+@media (max-width:880px) {
+
+    .download {
+        top: 20vh;
+        padding: 80px 100px;
+    }
+
+    .vc {
+        top: 20vh;
+        padding: 20px 50px;
+    }
+
+    .info {
+        top: 20vh;
+        padding: 20px 100px;
+    }
+
+    footer {
+        top: 19vh;
+        padding: 20px 100px;
+    }
+
+    footer .row{
+        padding: 30px 0px;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        row-gap: 5px;
+        font-size: 12px;
+    }
+
+    .download .row {
+        padding: 30px 0px;
+    }
+
+    .download .row .col {
+        column-gap: 5px;
+        width: 100%;
+    }
+
+}
+
+
+@media (max-width:748px) {
+
+    .download {
+        top: 10vh;
+        padding: 120px 100px;
+    }
+
+    .vc {
+        top: 10vh;
+        padding: 10px 50px;
+    }
+
+    .info {
+        top: 10vh;
+        padding: 10px 100px;
+    }
+
+    footer {
+        top: 9vh;
+    }
+
+    footer .row{
+        padding: 30px 0px;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        flex-direction: column;
+        row-gap: 5px;
+        font-size: 15px;
+    }
+
+    footer .row .col{
+        width: 100%;
+    }
+
+    .info .row .col{
+        width:90%;
+    }
+
+    .download .row {
+        padding: 30px 0px;
+    }
+
+    .download .row .col {
+        column-gap: 5px;
+        width: 100%;
+    }
+
+}
+
+@media (max-width:610px) {
+
+    .download {
+        top: 0vh;
+        padding: 180px 100px;
+    }
+
+    .vc {
+        top: 0vh;
+        padding: 0px 50px;
+    }
+
+    .info {
+        top: 0vh;
+        padding: 10px 100px;
+    }
+
+    footer {
+        top: 0vh;
+        padding: 10px 50px;
+    }
+
+    .info .row .col{
+        width: 90%;
+    }
+
+    .download .row {
+        padding: 30px 0px;
+    }
+
+    .download .row .col {
+        column-gap: 5px;
+        width: 100%;
+    }
+
+}
+
+
+@media (max-width:590px) {
+
+    .banner .ban2 {
+        background-position: 50% 00%;
+    }
+
+    .vc {
+        top: 0vh;
+        padding: 0px 0px;
+    }
+
+    footer {
+        top: 0vh;
+        padding: 10px 40px;
+    }
+
+    .info {
+        top: 0vh;
+        padding: 10px 40px;
+    }
+
+    .info .row .col{
+        width: 90%;
+    }
+
+}
+
+@media (max-width:500px) {
+
+
+    .download {
+        z-index: 9;
+        padding: 180px 36px 30px;
+    }
+
+    .download .row{
+        padding: 30px 0px;
+    }
+
+    .banner .ban8 {
+        bottom: 0%;
+        background-position: 50% 100%;
+    }
+
+    .banner .ban9 {
+        bottom: 0%;
+    }
+
+    footer {
+        top: 0vh;
+        padding: 10px 30px;
+    }
+
+}
+
+
+@media (max-width:422px) {
+
+    .banner{
+        background-color: #210002;
+    }
+
+    .banner .ban4 {
+        height: 100%;
+        bottom: 0%;
+        background-position: 50% 50%;
+    }
+
+    .banner .ban5 {
+        height: 100%;
+        bottom: 0%;
+        background-position: 50% 50%;
+    }
+
+    .banner .ban6 {
+        height: 100%;
+        bottom: 0%;
+        background-position: 50% 50%;
+    }
+
+    .banner .ban7 {
+        height: 100%;
+        bottom: 0%;
+        background-position: 50% 50%;
+    }
+
+    .banner .ban8 {
+        height: 100%;
+        bottom: 0%;
+        background-position: 50% 50%;
+    }
+
+    .banner .ban9 {
+        height: 100%;
+        bottom: 0%;
+        background-position: 50% 50%;
+    }
+
+    .download {
+        padding: 0px 20px 20px;
+    }
+
+    footer {
+        top: 0vh;
+        padding: 10px 20px;
+    }
+
+}
+
+@media (max-width:410px) {
+
+    .banner .ban3 {
+        background-position: 50% 10%;
+    }
+
+    .banner .ban4 {
+        background-position: 50% 30%;
+    }
+
+    .banner .ban5 {
+        background-position: 50% 30%;
+    }
+
+    .banner .ban3 {
+        background-position: 50% 10%;
+    }
+
+    .info .row .col a{
+        letter-spacing: 0;
+        font-size: 14px;
+    }
+
+    footer {
+        top: 0vh;
+        padding: 10px 10px;
+    }
+
+}
